@@ -1,0 +1,58 @@
+.destionation--iceland{
+    background-image:url(../assets/Images/iceland.jpg);
+    background-size: cover;
+    background-position: center ; 
+    height: 60rem; 
+    padding-top: 0.75rem;
+}
+.destionation--hawaii{
+    background-image:url(../assets/Images/hawaii.jpg);
+    background-size: cover;
+    background-position: center ; 
+    height: 60rem; 
+    padding-top: 0.75rem;
+}
+.destionation--greece{
+    background-image:url(../assets/Images/greece.jpg);
+    background-size: cover;
+    background-position: center ; 
+    height: 60rem; 
+    padding-top: 0.75rem;
+}
+
+.destination__banner{
+    font-size:7rem ; 
+    padding: 8rem 5rem; 
+    color: #ffffff;
+    font-family: "archivo black";
+
+
+}
+.destination_schedule{
+    display:flex;
+    justify-content: space-around; 
+    margin: -12rem 12rem 0 12rem;
+}
+.day__name{
+    border-bottom: 2px solid black; 
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+.daily__schedule{
+    background-color:#FFF;
+    width: 14rem;
+    height: 20rem; 
+    text-align: center; 
+    border-radius: 5px; 
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding:1rem;
+}
+.hourly__schedule{
+    background-color: #FEFAF5;
+    margin: 1rem; 
+    font-weight: 600;
+    font-size: 1rem;
+    padding:0.69rem; 
+}

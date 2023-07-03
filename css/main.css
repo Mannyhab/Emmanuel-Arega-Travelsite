@@ -1,0 +1,81 @@
+.hero{
+
+    background-color:#FEFAF5;
+    width:100%;
+  }
+  .hero__banner--main{
+      padding:0;
+      width:fit-content;
+      color: #335576;
+      font-size: 3.2rem;
+      margin-bottom:0;
+  }
+  .hero__img{
+      margin-left: 717px;
+      height: 29rem;
+      width: 30rem;
+      margin: -379px 0px 126px 754px; 
+  }
+  .hero-left{
+      margin-left:4.86rem;
+      padding-top: 12rem; 
+   
+  }
+  .hero__banner--sub{
+  color:#335576;
+  margin-top:0;
+  width:fit-content;
+  padding:2rem 0rem; 
+  font-size:1.25rem;
+  font-weight:500; 
+  }
+  .hero__button{
+  background-color:#DB7A4E;
+  border: 1px solid #DB7A4E; 
+  border-radius: 3.12rem; 
+  padding:0.81rem;
+  width: 15rem;
+  font-size:1.43rem;
+  color: #FFFFFF; 
+  }
+.recommendation{
+    background-color: #FFFFFF;
+   margin-bottom: 10rem; 
+
+}
+.cards__container{
+    display: flex; 
+    justify-content: space-evenly;
+
+
+}
+.card__link{
+    position: relative;
+}
+
+
+.card{
+    border: 1px solid #FFF;
+    width:21rem;
+    height: 34rem;
+    border: 1px solid #000000 20%;
+    box-shadow:  0px 4px 4px rgba(0, 0, 0, 0.2);
+    border-radius:0.3125rem;
+ 
+}
+.card--text{
+    position:absolute;
+    bottom:0rem;
+    right:3rem;
+    font-size: 1.93rem;
+    color:#FFFFFF;
+    font-family: "open sans";
+    font-weight: 600; 
+
+}
+
+.recommendation__header{
+    margin:4rem 0 4rem 4.85rem; 
+    color:#335576;
+    font-size: 2.375rem;
+}
