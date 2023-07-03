@@ -1,22 +1,24 @@
 .destionation--iceland{
     background-image:url(../assets/Images/iceland.jpg);
     background-size: cover;
-    background-position: center ; 
-    height: 60rem; 
+    background-position: center center ; 
+    height: 48rem; 
+    width:100%;
     padding-top: 0.75rem;
 }
 .destionation--hawaii{
     background-image:url(../assets/Images/hawaii.jpg);
     background-size: cover;
     background-position: center ; 
-    height: 60rem; 
+    height: 48rem;
+    width: 1280px; 
     padding-top: 0.75rem;
 }
 .destionation--greece{
     background-image:url(../assets/Images/greece.jpg);
     background-size: cover;
     background-position: center ; 
-    height: 60rem; 
+    height: 48rem; 
     padding-top: 0.75rem;
 }
 
